@@ -1,0 +1,30 @@
+{
+  "name": "mercaly-monorepo",
+  "version": "1.5.0",
+  "private": true,
+  "description": "Mercaly - Plataforma Web Multi-Tenant de Catálogo Virtual conectada a WhatsApp",
+  "workspaces": [
+    "admin",
+    "back",
+    "store"
+  ],
+  "scripts": {
+    "dev:back": "npm run dev --prefix back",
+    "dev:admin": "npm run dev --prefix admin",
+    "dev:store": "npm run dev --prefix store",
+    "build:admin": "npm run build --prefix admin",
+    "build:store": "npm run build --prefix store"
+  },
+  "keywords": [
+    "mercaly",
+    "multi-tenant",
+    "catalog",
+    "ecommerce",
+    "whatsapp",
+    "nextjs",
+    "express",
+    "react"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}

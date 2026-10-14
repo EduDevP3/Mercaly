@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Todo",
+        "path": "/search"
+    },
+    {
+        "title": "Pacas Mayoreo",
+        "path": "/search/Mayoreo"
+    },
+    {
+        "title": "Ropa Menudeo",
+        "path": "/search/Menudeo"
+    },
+    {
+        "title": "Lotes Premium",
+        "path": "/search/Premium"
+    }
+]
