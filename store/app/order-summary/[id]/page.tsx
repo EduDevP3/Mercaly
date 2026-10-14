@@ -30,7 +30,7 @@ export default function OrderSummaryPage() {
         <p className="mt-6 text-xl text-gray-500 dark:text-gray-400 max-w-2xl leading-relaxed">
           Tu pedido ha sido registrado con éxito. 
           <br className="hidden sm:block" />
-          Estamos listos para preparar tus artículos en <span className="font-bold text-black dark:text-white">La Barata Mayoreos (LBM)</span>.
+          Estamos listos para preparar tus artículos y coordinar la entrega por WhatsApp.
         </p>
 
         <div className="mt-10 flex flex-col items-center gap-4">

@@ -7,7 +7,7 @@ import { Suspense } from 'react';
 export const runtime = 'edge';
 
 export const metadata = {
-  description: 'La Barata Mayoreos (LBM) - Venta de pacas de ropa americana de calidad al mayoreo y menudeo con envíos seguros a todo México.',
+  description: 'Catálogo virtual interactivo conectado a WhatsApp para pedidos ágiles y compras directas.',
   openGraph: {
     type: 'website'
   }
